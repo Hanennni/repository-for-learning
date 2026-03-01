@@ -34,3 +34,9 @@ a.foo {
     padding-bottom: 3px;
     background: #f4f4f4;
 }
+
+.new_style_2 {
+    list-style-position: inside;
+    line-height: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
