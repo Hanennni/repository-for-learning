@@ -45,3 +45,8 @@ a.new_style_3 {
     text-decoration-color: black;
     color: black;
 }
+
+a.new_style_4:hover {
+    text-decoration-color: #444;
+    color: #444;
+}
